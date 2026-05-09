@@ -19,7 +19,7 @@ The design integrates **battery mounting zones, passenger floor support, and sub
 
 ### Software
 
-- 3D CAD: **CATIA V5 (Part Design, Assembly Design)**[file:344]
+- 3D CAD: **CATIA V5 (Part Design, Assembly Design)**
 
 ### Core Skills
 
